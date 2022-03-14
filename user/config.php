@@ -2,8 +2,8 @@
 //database settings
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "tours";
+$password = "Root123#";
+$dbname = "tour1";
 
 $currency = "INR";
 

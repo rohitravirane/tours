@@ -709,7 +709,8 @@ function tln_fixstyle($body, $pos, $trans_image_path, $block_external_images)
                         }
                         $sToken = '';
                     }
-                } else {
+                } 
+                else {
                     $content .= $char;
                 }
                 break;

@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Root123#";
 $dbname = "tour1";
 
 $currency = "INR";
